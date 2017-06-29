@@ -45,5 +45,4 @@ for fname in os.listdir(search_path):
 
                 # Increment line counter
                     line_no += 1
-        # Close the files
  
